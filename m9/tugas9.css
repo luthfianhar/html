@@ -1,0 +1,25 @@
+.judul-banner{
+    background-color: #6b9080;
+    color: #f6fff8;
+    text-align: center;
+}
+.apa{
+    background-color: #6b9080;
+    color: #f6fff8;
+    text-decoration: line-through;
+}
+.p{
+    background-color: #6b9080;
+    color: #f6fff8;
+    text-transform: uppercase;
+}
+.a{
+    background-color: #6b9080;
+    color: #f6fff8;
+    text-overflow: unset;
+}
+.c{
+    background-color: #6b9080;
+    color: #f6fff8;
+    text-shadow: 100cqw;
+}
