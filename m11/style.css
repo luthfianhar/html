@@ -1,0 +1,26 @@
+h1{
+    font-size: 16px;
+}
+.paragraf{
+    font-size: xx-large;
+}
+p{
+    /* mangatur ukuran font*/
+    /*font-size:24px;*/
+    font-size: larger;
+
+    /*mangatur ukuran font*/
+    /*font-weight:900;*/
+    font-weight: bold;
+
+    /*mengatur font style*/
+    /*font-style; italic*/
+    /*font-style;oblique*/
+    font-style:normal;
+
+    /* mangatur jenis font*/
+    /*font-family: 'cal bri*/
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif */
+    font-family: "Caveat", cursive;
+
+}
