@@ -1,0 +1,21 @@
+.bebas{
+    font-size: 25px;
+    height: 100%;
+    width: full;
+    background-color: aqua;
+}
+.ukuran-persen{
+    height: 100%;
+    width:  50%;
+    background-color: blueviolet;
+}
+.ukuran-em-rem{
+    height: 100%;
+    width:  50%;
+    background-color: blue;
+}
+.ukuran-viewport{
+    background-color: brown;
+    height: 100vw;
+    width: 40vh;
+}
