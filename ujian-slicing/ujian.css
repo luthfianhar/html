@@ -1,0 +1,17 @@
+.container-banner{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-between
+}
+h1{
+    background-color: aqua;
+}
+h2{
+    background-color:red;
+}
+p{
+    background-color:yellowgreen;
+}
+.bungkus-element{
+    background-color: blue;
+}

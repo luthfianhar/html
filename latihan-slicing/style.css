@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lora:ital,wght@0,400..700;1,400..700&family=Noto+Sans+Hanunoo&display=swap');
+*{
+    margin:0;
+    padding: 0;
+    font-family: "inter"=sans-serif;
+}
+.container-navigasi{
+    
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    justify-content: space-between;
+    /*font-family: "inter", sans-serif;*/
+    background-color: rgb(255, 255, 255, ) ;
+    height: 100px;
+}
+.list-navigasi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo-header{
+    /*background-color: rgb(22.159,245);*/
+    display: flex;
+    font-size: 20px;
+    font-weight: 700;
+    align-items: center;
+}
+.logo-headerimg{
+    margin-right: 1px;
+}
+.list-navigasi li{
+    list-style-type: none;
+    margin-left: 15px;
+    margin-right: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.container-banner{
+   /*background-color: blueviolet;*/
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: "inter", sans-serif;
+    height: 300px;
+    width: 80%;
+}
+.belajar{
+   /* background-color: chartreuse;*/
+}
+.belajar h1{
+    color: black;
+    font-size: 30px;
+}
+.belajar h2{
+    color: orange;
+    font-size: 30px;
+}
+.belajar p{
+    color: #717171;
+    font-size: 15px;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+.belajar button{
+    color: white;
+    background-color: #faa613;
+    border: none;
+    font-size: 20px;
+    padding:  15px 40px;
+    border-radius: 10px;
+    
+}
+.container-banner img{
+    /*background-color: #717171;*/
+    width: 300px;
+}
+#benner{
+    background-color: #F5F7FA;
+}
+.spesifik-button{
+    font-size: 50px;
+    
+}
+.button-register:hover{
+    background-color: aqua;
+}
+.user{
+    width: 40px;
+    height: 40px;
+    position: relative;
+}
+.user span{
+    color: white;
+    background-color: red;
+    right: -3px;
+    top: -9px;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    border-radius: 50px;
+    position: absolute;
+}
+.user img {
+    width: 40px;
+}
+.button-register{
+    background-color: #faa613;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    padding:  10px 15px;
+    color: white;
+}
+.belajar button:hover{
+    background-color: aqua;
+}
+.klien-kami{
+    text-align: center;
+}
+.klien-kami h1{
+    font-size: 40px;
+}
+.klien-kami p{
+    font-size: 20px;
+}

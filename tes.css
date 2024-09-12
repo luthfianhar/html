@@ -1,0 +1,14 @@
+.bungkus-banner{
+    background-color: blueviolet;
+}   
+.container-banner{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.gambar {
+    background-color: blue;
+}
+.poto{
+    background-color: brown;
+}

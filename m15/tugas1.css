@@ -1,0 +1,31 @@
+.tab{
+    display: flex;
+   list-style: none;
+   padding: 1px;
+   background-color: black;
+   align-items: center;
+   color: azure;
+   overflow-x: scroll;
+   margin: 3px;
+   overflow-y: hidden;
+   width: 250px;
+}
+.tab li{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-right: solid 1px;
+}
+.tab ul{
+    display: flex;
+    padding-left: 0px;
+}
+.apa{
+    background-color: aqua;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+   
+    
+}

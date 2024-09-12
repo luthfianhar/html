@@ -1,0 +1,42 @@
+.visible{
+    background-color: antiquewhite;
+    width: 200px;
+    height: 50px;
+    overflow: visible;
+}
+hr{
+    margin-top: 100px;
+}
+.hidden{
+    background-color: antiquewhite;
+    width: 200px;
+    height: 50px;
+    overflow: hidden;
+}
+.scroll{
+    background-color: antiquewhite;
+    width: 200px;
+    height: 500px;
+    overflow: scroll;
+}
+.auto{
+    background-color: antiquewhite;
+    width: 200px;
+    height: 500px;
+    overflow: auto;
+}
+.y{
+    background-color: antiquewhite;
+    width: 200px;
+    height: 100px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.x{
+    background-color: antiquewhite;
+    width: 200px;
+    height: 100px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}

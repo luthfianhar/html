@@ -1,0 +1,18 @@
+.banner{
+    background-color: gray;
+    overflow: auto;
+}
+.banner img{
+    float: left;    
+}
+p{
+    background-color: gray;
+    overflow: auto;
+}
+.banner-2{
+    background-color: gray;
+    overflow: auto;
+}
+.banner-2 img{
+    float: right;    
+}

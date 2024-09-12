@@ -1,0 +1,67 @@
+.banner{
+    background-color: gray;
+    overflow: auto;
+}
+.banner img{
+    float: right;    
+}
+.clear{
+    clear: right;
+    background-color: antiquewhite;
+}
+.box {
+    width: 10px;
+    height: 140px;
+    margin: 10px;
+    float: left;
+    background-color: green;
+    color: white;
+}
+.box-special{
+    width: 100px;
+    height: 140px;
+    margin: 10px;
+    background-color: green;
+    color: white;
+    clear: both;
+}
+p{
+    clear: both;
+}
+.my-box{
+    background-color: aqua;
+    overflow: auto;
+    
+}
+.box1{
+    width: 200px;
+    height: 400px;
+    background-color: aquamarine;
+    float: left;
+}
+.box2{
+    width: 200px;
+    height: 400px;
+    background-color: aquamarine;
+    float: right;
+}
+ul.navigasi{
+    list-style-type: none  ;
+    padding: o;
+    margin: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+ul.navigasi li{
+    float: left;
+}
+ul.navigasi li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul.navigasi li a:hover{
+    background-color: #111;
+}
