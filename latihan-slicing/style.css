@@ -13,6 +13,7 @@
     /*font-family: "inter", sans-serif;*/
     background-color: rgb(255, 255, 255, ) ;
     height: 100px;
+    align-items: center;
 }
 .list-navigasi{
     display: flex;
@@ -124,4 +125,84 @@
 }
 .klien-kami p{
     font-size: 20px;
+}
+.klien img{
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+
+}
+.apa{
+    text-align: center;
+}
+.apa h1{
+    font-size: 40px;
+}
+.apa p{
+    font-size: 20px;
+}
+.apa img{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 70px;
+    height: 70px;
+}
+.apa-1{
+    width: 250px;
+    text-align: center;
+    
+    img{
+        width: 80px;
+        
+       
+    }
+}
+.apa-2{
+    width: 250px;
+    text-align: center;
+    img{
+        width: 80px;
+    }
+}
+.apa-3{
+    width: 250px;
+    text-align: center;
+    img{
+        width: 80px;
+    }
+}
+.halo{
+    justify-content: space-between;
+    display: flex;
+}
+
+.p1 img{
+    width:400px;
+}
+.p2 h1{
+    font-size: 30px;
+    text-align: center;
+}
+.p2 p{
+    font-size: 20px;
+    text-align: center;
+}
+.icon-menu{
+    display: none;
+    
+}
+@media only screen and (max-width:745px){
+    .icon-menu{
+        display: block;
+    }
+    .list-navigasi{
+        display: none;
+    }
+    #banner img {
+        display: none;
+    }
 }

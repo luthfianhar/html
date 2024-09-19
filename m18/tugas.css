@@ -1,0 +1,11 @@
+.tugas{
+    background-color: blue;
+    list-style-type: none;
+}
+a:hover{
+    background-color: aqua;
+
+}
+a{
+    text-decoration: none;
+}

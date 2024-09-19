@@ -1,0 +1,37 @@
+a{
+    background-color: aqua;
+    width: 100px;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+div{
+    background-color: aquamarine;
+}
+p{
+    background-color: green;
+}
+span{
+    background-color: red;
+}
+label{
+    background-color: coral;
+    width: 100px;
+    display: block;
+}
+h1{
+    background-color: red;
+    display: inline-block;
+    width: 100px;
+}
+h2{
+    background-color: yellow;
+}
+.visib{
+    background-color: bisque;
+}
+.visib-beda{
+    visibility: hidden;
+}
+.visib-none{
+    display: none;
+}
