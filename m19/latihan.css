@@ -1,0 +1,44 @@
+
+.halo{
+    justify-content: space-between;
+    display: flex;
+}
+.p1{
+    display: flex;
+    align-items: center;
+}
+.p1 img{
+    width:70px;
+}
+.p2 h1{
+    font-size: 30px;
+    text-align: center;
+}
+.p2 p{
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

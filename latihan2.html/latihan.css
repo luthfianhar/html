@@ -1,0 +1,52 @@
+
+.container{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.card{
+    
+    width:400px;
+    height: 600px;
+}
+
+.card img{
+    width: 100%;
+}
+.bagian-avatar{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+}
+.bagian-avatar img{
+    width: 100px;
+}
+.p1 img{
+    width: 50px;
+    display: flex;
+    justify-content: right;
+}
+.p2{
+    line-height: 1px;
+}
+.bagian-image{  
+background-color: aqua;
+position: relative;
+
+span{
+    position: absolute;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    right: 20px;
+    font-size: 20px;
+    top: 10px;
+    border-radius: 10px;
+    font-family: 'roboto', 'sans-serif';
+    font-weight: 700;
+}
+
+}
+p{
+    overflow: scroll;
+}
